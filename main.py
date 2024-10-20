@@ -24,7 +24,9 @@ r"https://vro.omcat.info/",
 r"https://iv.nboeck.de/",
 r"https://youtube.mosesmang.com/",
 r"https://iteroni.com/",
-r"https://inv.nadeko.net/"
+r"https://inv.nadeko.net/",
+r"https://invidious.fdn.fr/",
+r"https://inv.vern.cc/"
 ]
 url = requests.get(r'https://raw.githubusercontent.com/mochidukiyukimi/yuki-youtube-instance/main/instance.txt').text.rstrip()
 version = "1.0"
