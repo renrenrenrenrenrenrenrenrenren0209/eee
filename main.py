@@ -111,7 +111,7 @@ r"https://invidious.777.tf/",
 r"https://inv.tux.pizza/",
 r"https://youtube.lurkmore.com/",
 r"https://yt.artemislena.eu/",
-r"https://youtube.076.ne.jp"m
+r"https://youtube.076.ne.jp",
 r"https://invidious.osi.kr/",
 r"https://invidious.flokinet.to/",
 r"https://inv.riverside.rocks/",
