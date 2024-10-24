@@ -14,7 +14,7 @@ max_time = 6
 apis = [
 r"https://invidious.chunboan.zone/",
 r"https://inv.us.projectsegfau.lt/",
-r"https://inv.frail.duckdns.org/"
+r"https://inv.frail.duckdns.org/",
 r"https://inv.pistasjis.net/",
 r"https://inv.riverside.rocks/",
 r"https://invidious.vern.cc/",
@@ -23,7 +23,6 @@ r"https://inv.vern.cc/",
 r"https://inv.zzls.xyz/",
 r"https://invi.susurrando.com/",
 r"https://yt.vern.cc/",
-r"https://invidious.0011.lt/",
 r"https://invidious.baczek.me/",
 r"https://invidious.epicsite.xyz/",
 r"https://invidious.esmailelbob.xyz/",
